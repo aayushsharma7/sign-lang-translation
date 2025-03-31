@@ -1,1 +1,1 @@
-"# sign-lang-translation" 
+Team Epidemia  "Sign Language Translation using Action Recognition"
